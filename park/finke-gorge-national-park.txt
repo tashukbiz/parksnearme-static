@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[3200,["355","static/chunks/355-8278605604c77999.js","177","static/chunks/app/layout-12ecf4fd2e201131.js"],"GoogleAnalyticsRegistration"]
+3:"$Sreact.suspense"
+4:I[3200,["355","static/chunks/355-8278605604c77999.js","177","static/chunks/app/layout-12ecf4fd2e201131.js"],"GoogleAnalyticsActions"]
+5:I[3355,["355","static/chunks/355-8278605604c77999.js","177","static/chunks/app/layout-12ecf4fd2e201131.js"],""]
+6:I[8438,[],""]
+7:I[6124,[],""]
+e:I[5022,[],""]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/cb25a7eff8d5417b.css","style"]
+:HL["/_next/static/css/094c308365445f8e.css","style"]
+0:{"P":null,"b":"xMS6Qy5zf-6GFjx69Kycz","p":"","c":["","park","finke-gorge-national-park"],"i":false,"f":[[["",{"children":["park",{"children":[["slug","finke-gorge-national-park","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cb25a7eff8d5417b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$L2",null,{}]}],["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased flex min-h-screen flex-col","children":[["$","$3",null,{"children":["$","$L4",null,{}]}],["$","header",null,{"className":"bg-green-700 text-white","children":["$","div",null,{"className":"mx-auto max-w-5xl p-4","children":["$","$L5",null,{"href":"/","className":"text-lg font-semibold","children":"Parks Near Me"}]}]}],["$","div",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-gray-100 text-sm text-gray-600 mt-8","children":["$","div",null,{"className":"mx-auto max-w-5xl p-4","children":["$","div",null,{"className":"grid grid-cols-1 md:grid-cols-4 gap-6 mb-6","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","h3",null,{"className":"font-semibold text-gray-800 mb-2","children":"States & Territories"}],["$","ul",null,{"className":"space-y-1","children":[["$","li","nsw",{"children":["$","$L5",null,{"href":"/nsw","className":"hover:text-gray-800 transition-colors","children":"New South Wales"}]}],["$","li","vic",{"children":["$","$L5",null,{"href":"/vic","className":"hover:text-gray-800 transition-colors","children":"Victoria"}]}],["$","li","qld",{"children":["$","$L5",null,{"href":"/qld","className":"hover:text-gray-800 transition-colors","children":"Queensland"}]}],["$","li","wa",{"children":["$","$L5",null,{"href":"/wa","className":"hover:text-gray-800 transition-colors","children":"Western Australia"}]}],["$","li","sa",{"children":["$","$L5",null,{"href":"/sa","className":"hover:text-gray-800 transition-colors","children":"South Australia"}]}],["$","li","tas",{"children":["$","$L5",null,{"href":"/tas","className":"hover:text-gray-800 transition-colors","children":"Tasmania"}]}],["$","li","act",{"children":["$","$L5",null,{"href":"/act","className":"hover:text-gray-800 transition-colors","children":"Australian Capital Territory"}]}],["$","li","nt",{"children":["$","$L5",null,{"href":"/nt","className":"hover:text-gray-800 transition-colors","children":"Northern Territory"}]}]]}]]}],["$","div",null,{"className":"text-center md:text-left","children":[["$","h3",null,{"className":"font-semibold text-gray-800 mb-2","children":"Cities"}],["$","ul",null,{"className":"space-y-1","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/sydney","className":"hover:text-gray-800 transition-colors","children":"Sydney"}]}],["$","li",null,{"children":["$","$L5",null,{"href":"/melbourne","className":"hover:text-gray-800 transition-colors","children":"Melbourne"}]}]]}]]}],["$","div",null,{"className":"text-center md:text-left","children":[["$","h3",null,{"className":"font-semibold text-gray-800 mb-2","children":"Resources"}],["$","ul",null,{"className":"space-y-1","children":[["$","li",null,{"children":["$","$L5",null,{"href":"/terms-of-service","className":"hover:text-gray-800 transition-colors","children":"Terms of Service"}]}],"$L8"]}]]}],"$L9"]}]}]}]]}]]}]]}],{"children":["park","$La",{"children":[["slug","finke-gorge-national-park","d"],"$Lb",{"children":["__PAGE__","$Lc",{},null,false]},null,false]},null,false]},null,false],"$Ld",false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+10:I[3185,[],"OutletBoundary"]
+12:I[7006,[],"AsyncMetadataOutlet"]
+14:I[3185,[],"ViewportBoundary"]
+16:I[3185,[],"MetadataBoundary"]
+8:["$","li",null,{"children":["$","$L5",null,{"href":"/privacy-policy","className":"hover:text-gray-800 transition-colors","children":"Privacy Policy"}]}]
+9:["$","div",null,{"className":"text-center md:text-right","children":["$","p",null,{"className":"text-gray-800","children":["© ",2025," Parks Near Me"]}]}]
+a:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$Lf",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/094c308365445f8e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]]}]
+d:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$3",null,{"fallback":null,"children":"$L17"}]}]}]]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+18:I[4442,["22","static/chunks/22-4c92933dee2c0cd0.js","452","static/chunks/452-5c0366aac85fde9b.js","255","static/chunks/255-52ea650c3a9ec27e.js","153","static/chunks/app/park/%5Bslug%5D/page-847b41655be61a60.js"],""]
+1a:I[7089,["22","static/chunks/22-4c92933dee2c0cd0.js","452","static/chunks/452-5c0366aac85fde9b.js","255","static/chunks/255-52ea650c3a9ec27e.js","153","static/chunks/app/park/%5Bslug%5D/page-847b41655be61a60.js"],"default"]
+20:I[2942,[],"IconMark"]
+19:T5a5,{
+  "@context": "https://schema.org",
+  "@type": [
+    "Park",
+    "Place",
+    "TouristAttraction"
+  ],
+  "name": "Finke Gorge National Park",
+  "description": "Remote park west of Alice Springs encompassing Palm Valley – a lush oasis of rare red cabbage palms along a desert riverbed – and the rugged sandstone landscapes of the ancient Finke River, offering 4WD trails, bush walks and camping among cycads and rock amphitheaters.",
+  "url": "https://parksnearme.com.au/park/finke-gorge-national-park",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -24.157867,
+    "longitude": 132.753326
+  },
+  "publicAccess": true,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Palm Valley Rd, Ntaria (Hermannsburg) NT 0872, Australia",
+    "addressLocality": "Hermannsburg",
+    "addressRegion": "NT",
+    "addressCountry": "AU"
+  },
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Bbq",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Shade",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Parking",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Picnic Tables",
+      "value": true
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Free Entry",
+      "value": true
+    }
+  ],
+  "isAccessibleForFree": true
+}1b:T6e0,) – relics from a wetter prehistoric era – line the sandy bed of the Finke River and its tributaries. These palms, found nowhere else in the world except a few valleys here, thrive in the microclimate of the deep gorge with permanent springs. Reaching Palm Valley requires a 4WD trek for about 18 km south from the Aboriginal community of Hermannsburg (Ntaria) into the park, traversing sections of the riverbed itself. Once there, short walking trails allow visitors to explore the oasis: the Arankaia Walk (2 km) and the longer Mpulungkinya Loop (5 km) wind through groves of palms, cycads and along ledges with superb views of the valley’s layered red cliffs. It’s a surreal experience to see tropical-like palms set against spinifex and red rock walls. The park also holds parts of the Finke River – often cited as one of the world’s oldest river systems – and the surrounding rugged ranges. The Finke’s broad valley and gorge country provide habitat for diverse flora and fauna, and many important Aboriginal cultural sites exist within the park. A campground at Palm Valley offers shaded sites, gas BBQs, picnic tables and pit toilets (and a small fee applies). Further north, the park’s landscape opens into pioneering history: at Boggy Hole, a waterhole along the Finke accessible by a challenging 4WD track, you can camp by the water where early explorers and drovers once passed. Whether coming for a day trip or an overnight adventure, Finke Gorge rewards with its blend of lush pockets amid harsh terrain. Watching the sunset light up the sandstone walls and palms, or the star-studded sky framed by gorge silhouettes, one feels transported to an ancient time when Central Australia was wetter and the palms dominated the land.f:[["$","$L18",null,{"id":"schema-park","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],["$","$L18",null,{"id":"schema-breadcrumb","type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"BreadcrumbList\",\n  \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 1,\n      \"name\": \"Home\",\n      \"item\": \"https://parksnearme.com.au/\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 2,\n      \"name\": \"NT\",\n      \"item\": \"https://parksnearme.com.au/nt\"\n    },\n    {\n      \"@type\": \"ListItem\",\n      \"position\": 3,\n      \"name\": \"Finke Gorge National Park\"\n    }\n  ]\n}"}}],["$","main",null,{"className":"max-w-3xl mx-auto p-4","children":[["$","h1",null,{"className":"text-2xl font-bold mb-2","children":"Finke Gorge National Park"}],["$","p",null,{"className":"text-sm text-gray-600","children":["Hermannsburg",", ","Alice Springs",", ","NT"]}],["$","p",null,{"className":"text-sm text-gray-600 mt-1","children":"Palm Valley Rd, Ntaria (Hermannsburg) NT 0872, Australia"}],["$","$L1a",null,{"parkTitle":"Finke Gorge National Park","parkSlug":"finke-gorge-national-park"}],false,["$","div",null,{"className":"prose max-w-none mt-4","children":[["$","p","p-0",{"children":["Finke Gorge National Park is a haven of surprising greenery and dramatic geology in the central Australian desert. It’s best known for ",["$","strong","strong-0",{"children":"Palm Valley"}],", where groves of stately Red Cabbage Palms (",["$","em","em-0",{"children":"Livistona mariae"}],"$1b"]}]]}],"$L1c","$L1d","$L1e","$L1f"]}]]
+13:{"metadata":[["$","title","0",{"children":"Parks near me - Finke Gorge National Park"}],["$","meta","1",{"name":"description","content":"Remote park west of Alice Springs encompassing Palm Valley – a lush oasis of rare red cabbage palms along a desert riverbed – and the rugged sandstone landscapes of the ancient Finke River, offering 4WD trails, bush walks and camping among cycads and rock amphitheaters."}],["$","link","2",{"rel":"canonical","href":"https://parksnearme.com.au/park/finke-gorge-national-park"}],["$","meta","3",{"property":"og:title","content":"Parks near me - Finke Gorge National Park"}],["$","meta","4",{"property":"og:description","content":"Remote park west of Alice Springs encompassing Palm Valley – a lush oasis of rare red cabbage palms along a desert riverbed – and the rugged sandstone landscapes of the ancient Finke River, offering 4WD trails, bush walks and camping among cycads and rock amphitheaters."}],["$","meta","5",{"property":"og:url","content":"https://parksnearme.com.au/park/finke-gorge-national-park"}],["$","meta","6",{"property":"og:image","content":"https://parksnearme.com.au/park-placeholder.jpg"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Parks near me - Finke Gorge National Park"}],["$","meta","9",{"name":"twitter:description","content":"Remote park west of Alice Springs encompassing Palm Valley – a lush oasis of rare red cabbage palms along a desert riverbed – and the rugged sandstone landscapes of the ancient Finke River, offering 4WD trails, bush walks and camping among cycads and rock amphitheaters."}],["$","meta","10",{"name":"twitter:image","content":"https://parksnearme.com.au/park-placeholder.jpg"}],["$","link","11",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"192x192"}],["$","$L20","12",{}]],"error":null,"digest":"$undefined"}
+17:"$13:metadata"
+21:I[3259,["22","static/chunks/22-4c92933dee2c0cd0.js","452","static/chunks/452-5c0366aac85fde9b.js","255","static/chunks/255-52ea650c3a9ec27e.js","153","static/chunks/app/park/%5Bslug%5D/page-847b41655be61a60.js"],"default"]
+1c:["$","p",null,{"className":"mt-4 text-sm","children":["For more pictures and directions refer to"," ",["$","a",null,{"href":"https://www.google.com/maps?q=Finke Gorge National Park,Palm Valley Rd, Ntaria (Hermannsburg) NT 0872, Australia","target":"_blank","rel":"noopener noreferrer","className":"text-blue-600 underline","children":"Google Maps"}],"."]}]
+1d:["$","h2",null,{"className":"text-xl font-semibold mt-6","children":"Features"}]
+1e:["$","ul",null,{"className":"grid grid-cols-2 gap-2 mt-2","children":[["$","li","bbq",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"✅"}],"bbq"]}],["$","li","playground",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"❌"}],"playground"]}],["$","li","shade",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"✅"}],"shade"]}],["$","li","parking",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"✅"}],"parking"]}],["$","li","dog_off_leash",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"❌"}],"dog off leash"]}],["$","li","picnic_tables",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"✅"}],"picnic tables"]}],["$","li","free_entry",{"className":"flex items-center gap-2 text-sm","children":[["$","span",null,{"children":"✅"}],"free entry"]}]]}]
+1f:["$","div",null,{"className":"mt-6","children":["$","$L21",null,{"lat":-24.157867,"lng":132.753326,"title":"Finke Gorge National Park"}]}]
