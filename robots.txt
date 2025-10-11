@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://parksnearme.com.au/sitemap.xml
